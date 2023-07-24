@@ -24,3 +24,17 @@ DHFA-Net could be tested by simply applying the following command:
 python3 test_myaligment.py
 ```
 And the segmentation maps are saved at ```/results/```.
+
+## Citation
+```pytorch
+@ARTICLE{10175569,
+  author={Gao, Mengyu and Xu, Jiping and Yu, Jiabin and Dong, Qiulei},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Distilled Heterogeneous Feature Alignment Network for SAR Image Semantic Segmentation}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3293160}
+}
+```
